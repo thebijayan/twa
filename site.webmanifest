@@ -1,0 +1,23 @@
+   {
+    "name": "TodayKokton",
+    "short_name": "TodayKokton",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKT8BB7Ip_NDWmVTbRw5E9y6CMuObP89qx6jRjuBAb9HMronXx6ZLGg27YWO9fdEpopQD7_4adGoCUCet6jij-Mc58ssVo3HvozEt9ksGYhdmU7YY5Nyyf5Pw6EQSCCkRHyRrmyyV5XnlsxAPfU5GxhUzqmoYGK0YvsK2tIKmPnU9bjJwombEn9gbNDA/s16000/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkjYYoGAkr48oS_vLumW5XmlJS7dFpAH38Wr0pW65WGeE3SyKueLHFjLlWscF3rqx0umr0-oVpgZxPplnzqLX1-P4b73ma1rjqYpVTr5QyXMg1dIExz20qbZhsIE-rlSlGpXjB2c0eflAKTRQmSTDSR1k1m0ZlF4aseM0pccsXHHY4mwtPHvPaPP4f7A/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.todaykokton.com"
+}
